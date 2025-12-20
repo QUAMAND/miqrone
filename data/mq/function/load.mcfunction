@@ -1,0 +1,2 @@
+# 로드 메시지
+tellraw @a [{bold:true,text:"",shadow_color:-16777216},{bold:false,text:"[ "},{"color":"#3AF2FF","text":"M"},{"color":"#37E7F3","text":"i"},{"color":"#35DCE8","text":"q"},{"color":"#32D1DC","text":"r"},{"color":"#2FC6D0","text":"o"},{"color":"#2CBBC4","text":"n"},{"color":"#27A5AD","text":"e"},{bold:false,text:" ] datapack <- "},{"underlined":true,"color":"green","text":"Enabled"}]
