@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": "iron_ingot"
+  },
+  "pattern": [
+    "111"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": "{consume:1,resource:1,iron_plate:1}",
+      "minecraft:custom_name": {
+        "text": "철 판",
+        "italic": false
+      },
+      "minecraft:lore": [
+        {
+          "text": " 철 괴를 얇게 편 제작된 자원입니다.",
+          "color": "gray",
+          "italic": false
+        }
+      ]
+    },
+    "count": 2,
+    "id": "heavy_weighted_pressure_plate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "1": "copper_ingot"
+  },
+  "pattern": [
+    "1",
+    "1"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": "{consume:1,resource:1,pipe:1}",
+      "minecraft:custom_name": {
+        "text": "배관",
+        "italic": false
+      },
+      "minecraft:lore": [
+        {
+          "text": " 기체를 가두거나 이동시키는 구리로 제작된 소모품입니다.",
+          "color": "gray",
+          "italic": false
+        }
+      ]
+    },
+    "count": 4,
+    "id": "lightning_rod"
+  }
+}

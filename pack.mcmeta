@@ -1,10 +1,2 @@
-{
-  "pack": {
-    "description": "§lMulti-purpose drone project",
-    "min_format": [
-      94,
-      1
-    ],
-    "max_format": 94
-  }
-}
+{"pack":{"description":"§lMulti-purpose drone project",
+"min_format":[94,1],"max_format":94}}
